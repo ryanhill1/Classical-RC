@@ -136,4 +136,4 @@ data/
 
 # Saved parameters
 models/
-w_*/
+w_*.pt
