@@ -132,4 +132,4 @@ dmypy.json
 .ipynb_checkpoints
 
 # Pytorch data
-.data
+data/
