@@ -133,3 +133,7 @@ dmypy.json
 
 # Pytorch data
 data/
+
+# Saved parameters
+models/
+w_*/
